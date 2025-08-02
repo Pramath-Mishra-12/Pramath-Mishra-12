@@ -12,7 +12,7 @@ I'm a Data Scientist with 8+ years of experience in AI and machine learning, spe
 
 🚀 Optimization: Model compression, quantization, ONNX conversions for faster inference.
 
-🛠️ MLOps: Robust deployments using MLFlow, Docker, Flask, and AWS.
+🛠️ MLOps: Robust deployments using MLFlow, Docker, FastAPI, and AWS.
 
 🛠 Tech Stack
 
@@ -22,7 +22,7 @@ Frameworks: PyTorch, Hugging Face Transformers, Scikit-learn, ONNX, OpenCV
 
 Tools: Elasticsearch, FAISS, Chroma, Weights & Biases, GitHub Actions
 
-Infrastructure: Flask, Docker, AWS, MLFlow, DVC, Git
+Infrastructure: FastAPI, Docker, AWS, MLFlow, DVC, Git
 
 📬 Reach Out
 
