@@ -26,8 +26,6 @@ Infrastructure: FastAPI, Docker, AWS, MLFlow, DVC, Git
 
 📬 Reach Out
 
-Email: pramath.mishra.92@gmail.com
-
 LinkedIn: Pramath Mishra
 
 GitHub: Pramath-Mishra-12
